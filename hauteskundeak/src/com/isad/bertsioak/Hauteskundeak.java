@@ -27,8 +27,10 @@ public class Hauteskundeak {
 		h2012.gehituMahaia("Bergara");
 		h2012.gehituMahaia("Andoain");
 		h2012.gehituMahaia("Hernani");
-		
+		h2012.gehituMahaia("Erandio");
 		System.out.println(h2012);
 	}
+
+
 
 }
